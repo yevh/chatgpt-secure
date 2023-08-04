@@ -8,7 +8,7 @@ Simple ChatGPT API requests validator. Removes sensitive information and validat
 - Sanitized, validated request send to gpt-3.5
 - Results printed
 
-> We can easily add for information relevant to your organization
+> Regex rules can be easily adopted for your case
 
 ## Install dependencies
 
